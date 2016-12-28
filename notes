@@ -1,0 +1,6 @@
+* Tutorial aus emacs aufrufen: 
+** Schreiben (info "(org)") C-x C-e 
+** M-x navigate to org-mode
+** Search C-s $term
+** Cycle C-s
+
