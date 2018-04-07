@@ -1,6 +1,8 @@
+
 * Tutorial aus emacs aufrufen: 
 ** Schreiben (info "(org)") C-x C-e 
 ** M-x navigate to org-mode
 ** Search C-s $term
 ** Cycle C-s
 
+* https://colinxy.github.io/computer-science/2017/02/17/emacs-workshop.html#/
